@@ -1,2 +1,4 @@
 # From-Print-Decline-to-Digital-Growth-Business-Intelligence-for-Bharat-Herald
 Analyzed 2019–2024 data for Bharat Herald to uncover print decline and digital gaps. Built SQL + Power BI dashboards to track revenue, circulation, readiness, and engagement, highlighting growth opportunities and guiding digital transformation
+
+Designed an interactive Power BI dashboard to analyze Bharat Herald’s print and digital performance (2019–2024). Transformed raw data into KPIs such as revenue concentration, circulation decline, print efficiency, internet readiness, and engagement outliers. Built intuitive visuals (KPI cards, line & bar charts, radar, scatter, waterfall) to track trends and benchmark city performance. The dashboard revealed categories driving >50% of ad revenue, cities with consistent multi-year decline, and digitally ready cities with low engagement. Insights supported leadership in prioritizing digital adoption and targeting growth-ready regions
